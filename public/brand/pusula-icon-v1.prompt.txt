@@ -1,0 +1,10 @@
+Use case: logo-brand.
+Asset type: one finished square application icon for Pusula, a Turkish personal finance dashboard.
+Primary request: design a refined, memorable icon expressing a compass and clear financial direction, consistent with the app's existing dark forest and soft sage identity.
+Scene/backdrop: full-bleed square deep forest charcoal background #141715, extremely subtle tonal variation, no external scene or mockup.
+Subject: a single bold abstract compass needle pointing northeast, cleverly formed from two interlocking geometric facets with a small clean negative-space center, suggesting a purposeful path forward. A restrained partial compass ring may unify the mark, but avoid small tick marks. Strong distinctive silhouette.
+Style/medium: premium contemporary fintech brand icon, crisp vector-like edges, mostly flat with very restrained dimensional light on the sage facets. Precise, calm, confident and warm. No glossy plastic.
+Composition/framing: exactly one centered symbol, occupies about 65% of square canvas; generous consistent safe margins, balanced optical weight, readable at 32px. Square image at high resolution, edge-to-edge background, no rounded tile silhouette or surrounding border.
+Color palette: background #141715, main symbol sage green #B4D797 with subtle pale sage highlight #D8E9CB and darker forest facet #6F9461.
+Text: none.
+Constraints: no letters, no numbers, no brand name, no watermark, no coins, no currency symbols, no charts, no extra decorative objects. This must be the actual clean usable app icon artwork, not a presentation, icon grid, device mockup or multiple variants.

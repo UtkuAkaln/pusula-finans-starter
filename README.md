@@ -2,6 +2,34 @@
 
 Türkçe kişisel finans paneli. Next.js, React, TypeScript ve Recharts ile hazırlanmıştır. Şifreli giriş ekranı, kişisel hesap, işlem, hedef, birikim veya bağlı bulut hesabı içermez.
 
+## Uygulamadan görüntüler
+
+Aşağıdaki ekran görüntüleri uygulamanın ayrı bir yerel önizlemesinde, **tamamen temsili hesap, işlem ve birikim kayıtlarıyla** hazırlanmıştır. Gerçek kişisel veri içermezler. Bu örnek kayıtlar başlangıç sürümüne eklenmez; uygulama ilk açılışta boş gelir. Görsellerdeki piyasa fiyatları çekim anına aittir.
+
+### Genel bakış — paranın yönünü gör
+
+![Pusula genel bakış: bakiye ve harcama kartları, gelir-gider sütun grafiği ve harcama dağılımı halkası](docs/images/genel-bakis.jpg)
+
+Elindeki para, bu ayki harcama, kalan toplam ve son işlem tek ekranda görünür. Yan yana duran gelir–gider ve donut grafiklerle aylık hareketleri karşılaştırabilir; harcamaların dağılımını işyerine veya kovaya göre inceleyebilirsin. Hesaplarını aynı sayfadaki açılır bölümden yönetebilirsin.
+
+### İşlemler — harcamalarını kolayca düzenle
+
+![Pusula işlemler: gelir ve gider listesi, hesap filtresi, satır içi kova düğmeleri ve CSV dışa aktarma](docs/images/islemler.jpg)
+
+Gelir ve harcamaları ara, hesaba göre filtrele ve her harcamanın kovasını doğrudan satırından seç. **Bu işyeri için hatırla** seçeneği sonraki sınıflandırmalara yardımcı olur; işlem listesini CSV olarak dışa aktarabilirsin.
+
+### Sabit giderler — aboneliklerini ve ödeme günlerini takip et
+
+![Pusula sabit giderler: aylık abonelik toplamı, ödeme günü kutuları, ödendi ve bekleniyor durumları](docs/images/sabit-giderler.jpg)
+
+Aboneliklerin aylık toplamını, ödeme günlerini ve ödendi/bekleniyor durumlarını tema ile uyumlu kartlarda gör. Aynı sayfanın **Aylık düzenin** bölümünde aylık veya haftalık giderleri planlayabilir, yapılan ödemeleri işlemlerle eşleştirebilirsin. Tekrarlanan ödemelerden çıkarılan abonelik önerileri onayınla kayda dönüşür.
+
+### Hedef ve Birikimler — birikimlerini hedeflerine bağla
+
+![Pusula hedef ve birikimler: döviz ve maden fiyatları, temsili portföy, hedef tutarları ve ilerleme çubukları](docs/images/hedef-ve-birikimler.jpg)
+
+TL, dolar, euro, sterlin, altın ve gümüş miktarlarını kaydet; piyasa alış fiyatlarıyla yaklaşık TL karşılıklarını takip et. Birikimlerini bir hedefe ayırdığında hedef tutarı, ayrılan miktar, kalan tutar ve ilerleme oranı birlikte gösterilir. Fiyat kaynağı ve son kotasyon zamanı da ekranda yer alır.
+
 ## Çalıştırma
 
 Node.js 24 gerekir.
@@ -40,7 +68,7 @@ npm run build
 npm start
 ```
 
-Herhangi bir Next.js barındırıcısında çalıştırılabilir. Giriş ekranı gerekmez; finans verileri her ziyaretçinin kendi tarayıcısında kalır. `.env*`, derleme çıktıları, yerel veri/yedek dosyaları ve ekran görüntüleri Git'e dahil edilmez.
+Herhangi bir Next.js barındırıcısında çalıştırılabilir. Giriş ekranı gerekmez; finans verileri her ziyaretçinin kendi tarayıcısında kalır. `.env*`, derleme çıktıları ve yerel veri/yedek dosyaları Git'e dahil edilmez. README için hazırlanmış temsili ekran görüntüleri `docs/images/` içinde sürümlenir; kişisel ekran görüntüleri depoya eklenmemelidir.
 
 ## Görseller
 

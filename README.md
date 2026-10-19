@@ -6,7 +6,7 @@ Pusula; gelirlerini, harcamalarını, hesaplarını, aboneliklerini ve birikim h
 
 Başlangıç sürümü **boştur**: kişisel hesap, işlem, hedef, birikim veya bağlı bulut hesabı içermez. Görsellerdeki örnek kayıtlar sana otomatik eklenmez.
 
-[Kurulum](#kurulum-adım-adım) · [Tekrar açma ve kapatma](#uygulamayı-kapatma-ve-tekrar-açma) · [İlk kullanım](#ilk-kullanım) · [Sorun giderme](#sık-karşılaşılan-sorunlar) · [Ekran görüntüleri](#uygulamadan-görüntüler)
+[Kurulum](#kurulum-adım-adım) · [Tekrar açma ve kapatma](#uygulamayı-kapatma-ve-tekrar-açma) · [İlk kullanım](#i̇lk-kullanım) · [Sorun giderme](#sık-karşılaşılan-sorunlar) · [Ekran görüntüleri](#uygulamadan-görüntüler)
 
 ## Kurulum: adım adım
 
